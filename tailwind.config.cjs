@@ -1,7 +1,7 @@
 module.exports = {
-  content: ["./src/**/*/*.{astro,html,js,jsx,ts,tsx}"],
-  theme: {
-    extends: {},
-  },
-  plugins: [],
+	content: ["./src/**/*.{astro,html,js,jsx,ts,tsx}"],
+	theme: {
+		extends: {},
+	},
+	plugins: [],
 };
